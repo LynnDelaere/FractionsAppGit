@@ -6,7 +6,7 @@ In the whole solution you can find a console application, "FractionsConsoleApp",
 
 This section provides a short explanation about every part in the solution.
 
-### Console App
+### FractionsConsoleApp
 
 The console application utilizes the custom library called "FractionsLibrary" to function as a fraction calculator. The application asks the user to input the numerator and denominator of two fractions, which are validated to ensure the input is a valid integer and that the denominators are not zero.
 
@@ -17,6 +17,8 @@ The application then preforms arithmetic operations on the two fractions such as
 The applications ensures input validity by employing two methodes that continuously prompt the user for input until valid values are provided, preventing the program from crashing due to invalid input.
 
 ### Library
+
+
 
 ### Unit Test
 
