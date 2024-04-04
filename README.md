@@ -54,6 +54,20 @@ Upon clicking the "Result" button, the application validates the input fractions
 
 ## Screenshots
 
+![WPFAdd](images/WPFAdd.png "Add Fractions")
+
+![WPFSubtract](images/WPFSubtract.png "Subtract Fractions")
+
+![WPFMultiply](images/WPFMultiply.png "Multiply Fractions")
+
+![WPFDivide](images/WPFDivide.png "Divide Fractions")
+
+![WPFReciprocal](images/WPFReciprocal.png "Reciprocal Fraction 1")
+
+![WPFInvert](images/WPFInvert.png "Invert Fraction 1")
+
+![WPFClear](images/WPFClear.png "Clear content")
+
 ## Setup and Usage
 
 ## UML Class Diagram
