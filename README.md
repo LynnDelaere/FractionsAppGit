@@ -6,9 +6,7 @@ Lynn Delaere
 
 ## Project description
 
-In the whole solution you can find a console application, "FractionsConsoleApp", a library "FractionsLibrary", a unit test "FractionsUnitTest" and a WPF application "FractionsWPFApp".
-
-This section provides a short explanation about every part in the solution.
+In the entire solution, you'll discover four distinct components: a console application titled "FractionsConsoleApp," a library named "FractionsLibrary," a unit test suite labeled "FractionsUnitTest," and a WPF (Windows Presentation Foundation) application designated "FractionsWPFApp."
 
 ### FractionsConsoleApp
 
@@ -16,31 +14,43 @@ The console application utilizes the custom library called "FractionsLibrary" to
 
 Upon valid inputs, the application creates two fraction objects based on the user's input.
 
-The application then preforms arithmetic operations on the two fractions such as addition, subtraction, multiplication, and division on these fractions. Additionally, it computes the reciprocal, where the numerator and denominator are swapped, and the invert of the first fraction. The application also provides a floating-point approximation of the two fractions.
+The application then performs arithmetic operations on the two fractions such as addition, subtraction, multiplication, and division on these fractions. Additionally, it computes the reciprocal, where the numerator and denominator are swapped, and the invert of the first fraction. The application also provides a floating-point approximation of the two fractions.
 
-The applications ensures input validity by employing two methodes that continuously prompt the user for input until valid values are provided, preventing the program from crashing due to invalid input.
+The application ensures input validity by employing two methods that continuously prompt the user for input until valid values are provided, preventing the program from crashing due to invalid input.
 
 ### FractionsLibrary
 
-In this library the class 'Fractions' is provided, the class represents fractions and provides methods for arithmetic operations such as addition, subtraction, multiplication, and division on fractions.
+In this library, the class 'Fraction' is provided. The class represents fractions and provides methods for arithmetic operations such as addition, subtraction, multiplication, and division on fractions.
 
-The class encapsulates the numerator and denominator as private attributes and provides methodes to access and manipulate them.
-The propertie methodes allow controlled access to the private attributes. The denominator setter ensures it's never zero by throwing an exception.
+The class encapsulates the numerator and denominator as private attributes and provides methods to access and manipulate them. The property methods allow controlled access to the private attributes. The denominator setter ensures it's never zero by throwing an exception.
 
-The class includes constructors for creating Fraction objects with default values or specified numerator and denominator values.
-Methods like Add, Subtract, Multiply, and Divide perform arithmetic operations between fractions. Each method takes another Fraction object as input and returns a new Fraction object representing the result.
+The class includes constructors for creating Fraction objects with default values or specified numerator and denominator values. Methods like Add, Subtract, Multiply, and Divide perform arithmetic operations between fractions. Each method takes another Fraction object as input and returns a new Fraction object representing the result.
 
-The reciprocal method returns a new Fraction object where the numerator and denominator swapped, the invert methode where the numerator had the opposite sign.
+The reciprocal method returns a new Fraction object where the numerator and denominator are swapped, and the invert method where the numerator has the opposite sign.
 
-The methode simplyfy finds the greatest common divisor of the numerator and denominator and reduces the fraction to its lowest terms. The result method converts the fraction to a double-precision floating-point number.
+The method simplify finds the greatest common divisor of the numerator and denominator and reduces the fraction to its lowest terms. The result method converts the fraction to a double-precision floating-point number.
 
 The ToString method overrides the default behavior and provides a human-readable string representation of the fraction. It considers special cases like whole numbers (denominator of 1) and zero.
 
-### Unit Test
+### FractionsUnitTest
 
-### WPF App
+The UnitTest1 class contains a series of unit tests for the Fraction class, ensuring that the methods within the Fraction class perform as expected and return correct results in various scenarios.
 
+The tests ensure that the Fraction class has properties called Numerator and Denominator, and that the Denominator cannot be set to zero. The arithmetic tests verify the correctness of arithmetic operations such as addition, subtraction, multiplication, and division. These tests include positive, negative, and zero values.
 
+Tests validate the functionality of the Reciprocal and Invert methods. The Simplify method is tested with large fractions to ensure that the result of the fraction is reduced to its simplest form.
+
+The Result method is tested to ensure that the returned value is the floating-point approximation of a fraction. Tests also validate the correctness of the string representation returned by the ToString method.
+
+To run these unit tests, you need to execute the test class using a testing framework like xUnit. Further information is provided in the section Setup and Usage.
+
+### FractionsWPFApp
+
+The code in FractionsWPFApp defines a WPF (Windows Presentation Foundation) application that utilizes a GUI (Graphical User Interface) framework. The MainWindow.xaml file contains the eXtensible Application Markup Language (XAML) where the layout for the application is declared. Meanwhile, the MainWindow.xaml.cs file contains the event handlers that respond to user actions, such as clicking a button.
+
+The application interface displays two fractions with input boxes corresponding to the numerator and denominator, along with a result fraction and buttons to select the desired operation. When an operation button is clicked, the appropriate image representing the operation is displayed between the two fractions. The second fraction disappears when the reciprocal or invert button is clicked and reappears when another operation is selected, dynamically updating the user interface. All content can be cleared by selecting the clear button.
+
+Upon clicking the "Result" button, the application validates the input fractions, checks the selected operation, performs the corresponding arithmetic operation using the Fraction class methods, and displays the result in the result fraction box. Error handling is implemented to catch exceptions such as division by zero or invalid input, displaying error messages in a message box.
 
 ## Screenshots
 
