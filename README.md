@@ -19,12 +19,17 @@ The applications ensures input validity by employing two methodes that continuou
 ### FractionsLibrary
 
 In this library the class 'Fractions' is provided, the class represents fractions and provides methods for arithmetic operations such as addition, subtraction, multiplication, and division on fractions.
+
 The class encapsulates the numerator and denominator as private attributes and provides methodes to access and manipulate them.
 The propertie methodes allow controlled access to the private attributes. The denominator setter ensures it's never zero by throwing an exception.
+
 The class includes constructors for creating Fraction objects with default values or specified numerator and denominator values.
 Methods like Add, Subtract, Multiply, and Divide perform arithmetic operations between fractions. Each method takes another Fraction object as input and returns a new Fraction object representing the result.
+
 The reciprocal method returns a new Fraction object where the numerator and denominator swapped, the invert methode where the numerator had the opposite sign.
+
 The methode simplyfy finds the greatest common divisor of the numerator and denominator and reduces the fraction to its lowest terms. The result method converts the fraction to a double-precision floating-point number.
+
 The ToString method overrides the default behavior and provides a human-readable string representation of the fraction. It considers special cases like whole numbers (denominator of 1) and zero.
 
 
