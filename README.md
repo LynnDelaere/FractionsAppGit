@@ -1,5 +1,9 @@
 # Fractions App
 
+## Author
+
+Lynn Delaere
+
 ## Project description
 
 In the whole solution you can find a console application, "FractionsConsoleApp", a library "FractionsLibrary", a unit test "FractionsUnitTest" and a WPF application "FractionsWPFApp".
@@ -32,18 +36,15 @@ The methode simplyfy finds the greatest common divisor of the numerator and deno
 
 The ToString method overrides the default behavior and provides a human-readable string representation of the fraction. It considers special cases like whole numbers (denominator of 1) and zero.
 
-
 ### Unit Test
 
 ### WPF App
 
-## Author
+
 
 ## Screenshots
 
 ## Setup and Usage
-
-## Unit Tests
 
 ## UML Class Diagram
 
