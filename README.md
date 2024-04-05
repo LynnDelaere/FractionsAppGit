@@ -70,7 +70,7 @@ Upon clicking the "Result" button, the application validates the input fractions
 
 ## Setup and Usage
 
-To effectively run the solution and conduct unit tests, certain applications and tools are required. The application is developed using Microsoft Visual Studio, specifically tailored for C# development. Therefore, it's essential to install Visual Studio to facilitate the development environment. You can follow this link for a step-by-step guide on installing Visual Studio Community edition: [link](https://from-bace-to-ace.netlify.app/00-visual-studio-community/)
+To effectively run the solution and conduct unit tests, certain applications and tools are required. The application is developed using Microsoft Visual Studio, specifically tailored for C# development. Therefore, it's essential to install Visual Studio to facilitate the development environment. You can follow this [link](https://from-bace-to-ace.netlify.app/00-visual-studio-community/) for a step-by-step guide on installing Visual Studio Community edition.
 
 Open Solution in Visual Studio: Open the solution containing the C# code for the Fraction calculator in Visual Studio.
 
