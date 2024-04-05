@@ -26,7 +26,7 @@ The class encapsulates the numerator and denominator as private attributes and p
 
 The class includes constructors for creating Fraction objects with default values or specified numerator and denominator values. Methods like Add, Subtract, Multiply, and Divide perform arithmetic operations between fractions. Each method takes another Fraction object as input and returns a new Fraction object representing the result.
 
-The reciprocal method returns a new Fraction object where the numerator and denominator are swapped, and the invert method where the numerator has the opposite sign.
+The Reciprocal method returns a new Fraction object where the numerator and denominator are swapped. If the numerator has a negative value, the sign is swapped from the numerator to the denominator in the result. This is done to enhance readability and clarity. The Invert method is designed to return a fraction with the opposite sign. It creates a new Fraction object where the signs of the numerator and denominator are inverted.
 
 The method simplify finds the greatest common divisor of the numerator and denominator and reduces the fraction to its lowest terms. The result method converts the fraction to a double-precision floating-point number.
 
@@ -69,6 +69,22 @@ Upon clicking the "Result" button, the application validates the input fractions
 ![WPFClear](images/WPFClear.png "Clear content")
 
 ## Setup and Usage
+
+To effectively run the solution and conduct unit tests, certain applications and tools are required. The application is developed using Microsoft Visual Studio, specifically tailored for C# development. Therefore, it's essential to install Visual Studio to facilitate the development environment. You can follow this link for a step-by-step guide on installing Visual Studio Community edition: [link](https://from-bace-to-ace.netlify.app/00-visual-studio-community/)
+
+Open Solution in Visual Studio: Open the solution containing the C# code for the Fraction calculator in Visual Studio.
+
+Build Solution: Build the solution to ensure all dependencies are resolved.
+
+Run Unit Tests: Use Visual Studio's test runner to execute the unit tests provided in the UnitTest1 class. This ensures that the Fraction class functions correctly under different scenarios.
+
+Run Application: Run the main application (likely a WPF application) to utilize the fraction calculator. Ensure the Fraction class and any other required dependencies are properly referenced and included in the project.
+
+Interact with the Calculator: Input fractions and select arithmetic operations using the provided UI buttons. Verify that the application performs the expected calculations and displays results accurately.
+
+Error Handling: Test the application's error handling by providing invalid inputs (such as zero denominators) and verifying that appropriate error messages are displayed to the user.
+
+By following these steps, users can set up and utilize the fraction calculator application, ensuring accurate calculations and error handling.
 
 ## UML Class Diagram
 
