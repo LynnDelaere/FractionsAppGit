@@ -2,7 +2,7 @@
 
 ## Author
 
-Lynn Delaere
+This application has been developed by Lynn Delaere, a student enrolled in the Electronics- ICT course at VIVES University Of Applied Sciences, Bruges.
 
 ## Project description
 
@@ -72,19 +72,9 @@ Upon clicking the "Result" button, the application validates the input fractions
 
 To effectively run the solution and conduct unit tests, certain applications and tools are required. The application is developed using Microsoft Visual Studio, specifically tailored for C# development. Therefore, it's essential to install Visual Studio to facilitate the development environment. You can follow this [link](https://from-bace-to-ace.netlify.app/00-visual-studio-community/) for a step-by-step guide on installing Visual Studio Community edition.
 
-Open Solution in Visual Studio: Open the solution containing the C# code for the Fraction calculator in Visual Studio.
+Once installed open the project solution called 'FractionsApp.sln' in Visual Studio and build the solution to ensure all dependencies are resolved. Right-click on 'FractionsConsoleApp' and go to 'Configure Startup Projects'. Select single startup project to run the Console Application or the Windows Application, or select multiple startup projects to start both the Console Application and the Windows Application.
 
-Build Solution: Build the solution to ensure all dependencies are resolved.
-
-Run Unit Tests: Use Visual Studio's test runner to execute the unit tests provided in the UnitTest1 class. This ensures that the Fraction class functions correctly under different scenarios.
-
-Run Application: Run the main application (likely a WPF application) to utilize the fraction calculator. Ensure the Fraction class and any other required dependencies are properly referenced and included in the project.
-
-Interact with the Calculator: Input fractions and select arithmetic operations using the provided UI buttons. Verify that the application performs the expected calculations and displays results accurately.
-
-Error Handling: Test the application's error handling by providing invalid inputs (such as zero denominators) and verifying that appropriate error messages are displayed to the user.
-
-By following these steps, users can set up and utilize the fraction calculator application, ensuring accurate calculations and error handling.
+To run the xUnit Test right-click on the 'FractionsUnitTest' and run the tests.
 
 ## UML Class Diagram
 
