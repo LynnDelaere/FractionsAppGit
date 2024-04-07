@@ -79,3 +79,6 @@ To run the xUnit Test right-click on the 'FractionsUnitTest' and run the tests.
 ## UML Class Diagram
 
 ## Future Improvements
+
+- Enhance user interface design and interactivity in the WPF application.
+- Include additional mathematical functions for fractions, such as exponentiation and logarithms.
