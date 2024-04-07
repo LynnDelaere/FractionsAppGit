@@ -54,6 +54,8 @@ Upon clicking the "Result" button, the application validates the input fractions
 
 ## Screenshots
 
+This section presents a pair of screenshots showcasing the operational WPF application.
+
 ![WPFAdd](images/WPFAdd.png "Add Fractions")
 
 ![WPFSubtract](images/WPFSubtract.png "Subtract Fractions")
@@ -77,6 +79,9 @@ Once installed open the project solution called 'FractionsApp.sln' in Visual Stu
 To run the xUnit Test right-click on the 'FractionsUnitTest' and run the tests.
 
 ## UML Class Diagram
+
+This section displays the UML class diagram of the entire 'FractionsApp.sln' application.
+![UMLDiagram](images/UMLFractions.png "UML Class Diagram")
 
 ## Future Improvements
 
