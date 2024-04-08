@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FractionsConsoleApp
-build_property.ProjectDir = C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsApp\FractionsConsoleApp\
+build_property.ProjectDir = C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsConsoleApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

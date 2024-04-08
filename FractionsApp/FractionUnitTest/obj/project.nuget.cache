@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vHil7aFK4HNN2JNbiRmZL5alaRXSomSJylCAVHFp+Fi1t1mbFDMwvDk0B8HCqwLt8A9+s1ksjl19nJLpWSFMwA==",
+  "dgSpecHash": "hBdq0z0qNHwKP5eUedAhTkNTdsx0Q+Ts6KcnodoEpqxs148353rsa9Dz7OdluDG2UZ0KPS8JV36JxWOPMayjZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lynnd\\OneDrive - Hogeschool VIVES\\Fase1\\Semester2\\ObjectOrientatedProgramming\\FractionsApp\\FractionUnitTest\\FractionsUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\lynnd\\OneDrive - Hogeschool VIVES\\Fase1\\Semester2\\ObjectOrientatedProgramming\\FractionsAppGit\\FractionsApp\\FractionUnitTest\\FractionsUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lynnd\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\lynnd\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

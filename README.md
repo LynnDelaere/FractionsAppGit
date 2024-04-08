@@ -87,3 +87,5 @@ This section displays the UML class diagram of the entire 'FractionsApp.sln' app
 
 - Enhance user interface design and interactivity in the WPF application.
 - Include additional mathematical functions for fractions, such as exponentiation and logarithms.
+- Expand the Setup and Usage so people with no background of programming can run the app too.
+- Include a regular calculator so the user can choose between fractions and the calculator.

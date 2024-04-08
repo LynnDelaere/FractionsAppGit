@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lynnd\\OneDrive - Hogeschool VIVES\\Fase1\\Semester2\\ObjectOrientatedProgramming\\FractionsApp\\FractionsApp\\FractionsLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\lynnd\\OneDrive - Hogeschool VIVES\\Fase1\\Semester2\\ObjectOrientatedProgramming\\FractionsAppGit\\FractionsApp\\FractionsApp\\FractionsLibrary.csproj",
       "projectName": "FractionsLibrary",
-      "projectPath": "C:\\Users\\lynnd\\OneDrive - Hogeschool VIVES\\Fase1\\Semester2\\ObjectOrientatedProgramming\\FractionsApp\\FractionsApp\\FractionsLibrary.csproj",
+      "projectPath": "C:\\Users\\lynnd\\OneDrive - Hogeschool VIVES\\Fase1\\Semester2\\ObjectOrientatedProgramming\\FractionsAppGit\\FractionsApp\\FractionsApp\\FractionsLibrary.csproj",
       "packagesPath": "C:\\Users\\lynnd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lynnd\\OneDrive - Hogeschool VIVES\\Fase1\\Semester2\\ObjectOrientatedProgramming\\FractionsApp\\FractionsApp\\obj\\",
+      "outputPath": "C:\\Users\\lynnd\\OneDrive - Hogeschool VIVES\\Fase1\\Semester2\\ObjectOrientatedProgramming\\FractionsAppGit\\FractionsApp\\FractionsApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

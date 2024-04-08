@@ -9,3 +9,15 @@ C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgr
 C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsApp\FractionsApp\obj\Debug\net8.0\refint\FractionsLibrary.dll
 C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsApp\FractionsApp\obj\Debug\net8.0\FractionsLibrary.pdb
 C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsApp\FractionsApp\obj\Debug\net8.0\ref\FractionsLibrary.dll
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\bin\Debug\net8.0\FractionsLibrary.deps.json
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\bin\Debug\net8.0\FractionsLibrary.dll
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\bin\Debug\net8.0\FractionsLibrary.pdb
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\obj\Debug\net8.0\FractionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\obj\Debug\net8.0\FractionsLibrary.AssemblyInfoInputs.cache
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\obj\Debug\net8.0\FractionsLibrary.AssemblyInfo.cs
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\obj\Debug\net8.0\FractionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\obj\Debug\net8.0\FractionsLibrary.sourcelink.json
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\obj\Debug\net8.0\FractionsLibrary.dll
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\obj\Debug\net8.0\refint\FractionsLibrary.dll
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\obj\Debug\net8.0\FractionsLibrary.pdb
+C:\Users\lynnd\OneDrive - Hogeschool VIVES\Fase1\Semester2\ObjectOrientatedProgramming\FractionsAppGit\FractionsApp\FractionsApp\obj\Debug\net8.0\ref\FractionsLibrary.dll
